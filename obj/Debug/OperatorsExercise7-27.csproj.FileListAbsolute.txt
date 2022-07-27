@@ -1,0 +1,8 @@
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\bin\Debug\OperatorsExercise7-27.exe.config
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\bin\Debug\OperatorsExercise7-27.exe
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\bin\Debug\OperatorsExercise7-27.pdb
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\obj\Debug\OperatorsExercise7-27.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\obj\Debug\OperatorsExercise7-27.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\obj\Debug\OperatorsExercise7-27.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\obj\Debug\OperatorsExercise7-27.exe
+C:\Users\graha\Desktop\repos\OperatorsExercise7-27\obj\Debug\OperatorsExercise7-27.pdb
